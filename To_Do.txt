@@ -22,7 +22,7 @@ Kadanes (Max subarray sum)
 String:
 	-Pattern Matching Algos:
 		1. KMP
-		2. Rabon - Carp
+		2. Rabin - Carp
 Data Structures list for practice-:
   Linear
   Array 
