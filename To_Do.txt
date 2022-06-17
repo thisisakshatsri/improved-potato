@@ -1,16 +1,25 @@
+Program Paradigm:
+	Recursion
+	Brute Force
+	Backtracking
+	Branch and Bound
+	Divide and Conquer
+	Greedy
+	Dynamic Programming
+
 Algorithm List for Practice:
 
 Sorting:
-Insertin Sort
-Selection Sort
-Bubble Sort
-Quick Sort
-Merge Sort
+	Insertion Sort
+	Selection Sort
+	Bubble Sort
+	Quick Sort
+	Merge Sort
 
 Searching:
-Linear Search
-Binary Search
-Ternary Search
+	Linear Search
+	Binary Search
+	Ternary Search
 
 Number Theory:
 Eucleadian (gcd)
