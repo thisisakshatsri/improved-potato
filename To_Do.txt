@@ -44,5 +44,16 @@ Non-Linear
   Binary search tree
   Graph
   Trie
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------MUST - DO- ALGORITHMS
+BFS
+DFS
+Matching Parenthesis Problem
+Using Hash Tables
+Variables/Pointer Manipulation
+ReverseLinked List(Duplicate, Removing Duplicates)
+Sorting Fundamentals - Quick, Merge, Bubble, Selection, Insertion (With Time and Space Complexity)
+Recursion
+Custom Data Structures - Object Oriented Programming
+Binary Search
 
 
